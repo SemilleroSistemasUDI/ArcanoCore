@@ -12,10 +12,11 @@
 // LICENSE file in the root directory of this source tree. 
 #pragma endregion
 
-// ArcanoCore.cpp : Defines the entry point for the console application.
+// ArcanoCore.cpp : Define el punto de entrada de la aplicación.
 //
 
 #include "stdafx.h"
+#include <iostream>
 
 
 int main()
